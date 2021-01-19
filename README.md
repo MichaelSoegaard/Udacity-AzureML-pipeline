@@ -34,6 +34,10 @@ The steps to complete this exercise are:
 ---
 ![alt text](img/pipeline.png?raw=true "Pipeline")
 
+### **AutoML found that the best model for this problem is a VotingEnsemble model composed of XGBoost models**
+---
+![alt text](img/pipeline.png?raw=true "Pipeline")
+
 
 ### **Published pipeline.**
 ---
@@ -62,6 +66,11 @@ The steps to complete this exercise are:
 ### **Swagger json is downloaded to swagger folder and Swagger is run.**
 ---
 ![alt text](img/swagger.png?raw=true "swagger")
+
+
+### **Logging is enabled by running logs.py**
+---
+![alt text](img/logs_py.png?raw=true "Logs")
 
 
 ### **We test the model endpoint by sending it a json request and receive a prediction.**

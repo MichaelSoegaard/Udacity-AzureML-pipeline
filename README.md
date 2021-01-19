@@ -32,11 +32,12 @@ The steps to complete this exercise are:
 
 ### **Overview of pipeline with details.**
 ---
+![alt text](img/pipeline_overview.png?raw=true "Pipeline")
 ![alt text](img/pipeline.png?raw=true "Pipeline")
 
 ### **AutoML found that the best model for this problem is a VotingEnsemble model composed of XGBoost models**
 ---
-![alt text](img/pipeline.png?raw=true "Pipeline")
+![alt text](img/model_completed.png?raw=true "Model")
 
 
 ### **Published pipeline.**
